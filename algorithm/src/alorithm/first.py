@@ -23,9 +23,9 @@ def sum2(size):
     sTime=time.time()              #开始时间
     sum=0                          #执行一次
     try:                         
-        sum=(1+size)*size/2        #执行一次
-        print "sum2--"+str(sum)    #执行一次
-        eTime=time.time()          #结束时间
+        sum=(1+size)*size/2          #执行一次
+        print "sum2--"+str(sum)      #执行一次
+        eTime=time.time()           #结束时间
         print eTime-sTime          #总共用时
     except Exception,e:
         print e.msg
