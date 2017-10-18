@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//command/Lims.py=utf-8
+encoding//command/__init__.py=utf-8
+encoding//command/analysis.py=utf-8
+encoding//command/connectJava.py=utf-8
+encoding//command/jiujiang.py=utf-8
+encoding//command/jiujiang2.py=utf-8
+encoding//command/mesRead.py=utf-8
+encoding//command/newPims.py=utf-8
+encoding//command/oil.py=utf-8
+encoding//command/pims.py=utf-8
+encoding//command/readPickle.py=utf-8
+encoding//command/start.py=utf-8
+encoding//command/startPims.py=utf-8
+encoding//command/test_log.py=utf-8
