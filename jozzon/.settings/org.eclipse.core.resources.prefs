@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/jozzon/jozzon/asgi.py=utf-8
+encoding//src/jozzon/jozzon/settings.py=utf-8
+encoding//src/jozzon/testchannels/groupConsumer.py=utf-8
+encoding//src/jozzon/testchannels/noGroupConsumer.py=utf-8
+encoding//src/jozzon/testchannels/routing.py=utf-8
