@@ -27,7 +27,6 @@ def singleton(cls, *args, **kw):
             instances[cls] = cls(*args, **kw)    
         return instances[cls]    
     return _singleton    
-   
 @singleton    
 class MyClass(object):    
     a = 1    
